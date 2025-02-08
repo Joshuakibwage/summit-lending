@@ -1,8 +1,12 @@
+import LandingPage from "./pages/LandingPage"
+
  
 
 const App = () => {
   return (
-    <div>App</div>
+    <main>
+      <LandingPage />
+    </main>
   )
 }
 

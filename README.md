@@ -67,7 +67,7 @@ Push your branch and create a pull request:
 🏆 Contributors
 
 👤 Joshua Kibwage
-👤 Samantha Agana
+👤 Samantha Ogana
 👤 Amos Segera
 📬 Contact
 
