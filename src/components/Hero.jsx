@@ -22,16 +22,17 @@ const Hero = () => {
             hover:translate-y-1 transition delay-200 ease-in-out"
           />
         </div>
-        <div className="w-full mt-8 mx-4 flex">
+        <div className="w-full mt-8 mx-4 flex space-x-6 pb-8">
           <img 
             src={image} 
             alt="hero image" 
-            className="w-[70%] "
+            className="w-[68%]  hover:-translate-y-1 transition delay-200 ease-in-out"
           />
           <img 
             src={image2}
             alt="hero image"
-            className=""
+            className="w-[30%] rounded-tl-4xl rounded-bl-4xl hover:-translate-y-1 transition delay-200 
+            ease-in-out"
           />
         </div>
     </section>
